@@ -1,6 +1,6 @@
 {
   "name": "meizu-push",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Meizu Flyme push service Node.js SDK",
   "main": "index.js",
   "scripts": {
